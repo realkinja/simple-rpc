@@ -1,0 +1,12 @@
+{
+    "client_id": "put your client id here",
+
+    "state": "It's cool and simple.",
+    "details": "Look at this cool RPC!.",
+
+    "largeimage": "largeimage",
+    "largetext": "largetext",
+    
+    "smallimage": "small image",
+    "smalltext": "small text"
+}
